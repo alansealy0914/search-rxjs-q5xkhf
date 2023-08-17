@@ -1,0 +1,17 @@
+/* Add application styles & imports to this file! */
+.thumbnail {
+  width: 150px;
+  opacity: 0.8;
+}
+
+.thumbnail:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-transform: capitalize;
+}
